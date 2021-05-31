@@ -2,7 +2,7 @@
 const { response } = require('express');
 var express = require('express')
 var app = express();
-var PORT = 5000
+var PORT =  process.env.PORT || 5000
 var path = require('path')
 var options = { beautify: true };
 const User = require("./models/User");
