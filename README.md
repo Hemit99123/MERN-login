@@ -17,4 +17,4 @@ If you use my code and modify the app please make sure to always re-run the app 
 There is also an API, once you run the express server then you can go to http://localhost:5000/api/info to see it out!
 
 I also depolyed this on heroku!
-Here is the link: https://early-access.herokuapp.com/
+Here is the link: https://cutt.ly/MERN-login
