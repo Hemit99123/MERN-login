@@ -4,9 +4,11 @@ https://github.com/reactjs/express-react-views
 
 # Commands to run this app:
 
-1. npm install
+1: npm install
 
 2: npm run start
+
+# Outcome
 
 This will start the react app on PORT 5000
 
